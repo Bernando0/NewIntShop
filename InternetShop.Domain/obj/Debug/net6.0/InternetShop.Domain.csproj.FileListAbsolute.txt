@@ -12,3 +12,17 @@ C:\Users\Bernando\source\repos\IntShop\InternetShop\InternetShop.Domain\obj\Debu
 C:\Users\Bernando\source\repos\IntShop\InternetShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.pdb
 C:\Users\Bernando\source\repos\IntShop\InternetShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.genruntimeconfig.cache
 C:\Users\Bernando\source\repos\IntShop\InternetShop\InternetShop.Domain\obj\Debug\net6.0\ref\InternetShop.Domain.dll
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\bin\Debug\net6.0\InternetShop.Domain.deps.json
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\bin\Debug\net6.0\InternetShop.Domain.runtimeconfig.json
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\bin\Debug\net6.0\InternetShop.Domain.dll
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\bin\Debug\net6.0\InternetShop.Domain.pdb
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.csproj.AssemblyReference.cache
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.AssemblyInfoInputs.cache
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.AssemblyInfo.cs
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.dll
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\refint\InternetShop.Domain.dll
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.pdb
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\InternetShop.Domain.genruntimeconfig.cache
+C:\Users\itstart\Source\Repos\NewIntShop\InternetShop.Domain\obj\Debug\net6.0\ref\InternetShop.Domain.dll

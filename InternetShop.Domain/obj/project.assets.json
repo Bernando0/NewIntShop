@@ -965,11 +965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
       "projectName": "InternetShop.Domain",
-      "projectPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
+      "projectPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
       "packagesPath": "C:\\Users\\Bernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

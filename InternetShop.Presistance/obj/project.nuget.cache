@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dugXqsTBkRvQgi0w247mOdMPf3cMJtcn3yesrp5XZTO+OyqqkDjEk8XuKIY565qwe0ulAjIF+8yo9BqIXFHSFQ==",
+  "dgSpecHash": "Gy+93POBcSKpqTmIji6djts5dcgPL7DoZ8wNfvWFHoD/btBuZuZ9nf4HcTMZCQib+gXAxMemJ0geGGf4UYXFVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Presistance\\InternetShop.Presistance.csproj",
+  "projectFilePath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Presistance\\InternetShop.Presistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bernando\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bernando\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

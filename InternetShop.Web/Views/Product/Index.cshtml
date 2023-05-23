@@ -1,0 +1,86 @@
+﻿@model List<ProductViewModel>
+@{
+    ViewBag.Title = "Product";
+    int count = 1;
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h2>@ViewBag.Title</h2>
+        </div>
+        <div class="col-6 right">
+            <a asp-controller="Product" asp-action="Create" class="btn btn-primary">CREATE PRODUCT</a>
+        </div>
+    </div>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>NUMBER</th>
+                <th>NAME</th>
+                <th>PRICE</th>
+                <th>CATEGORY</th>
+                <th>Type</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@count</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Category.Name</td>
+                    <td>@product.ApplicationType.Name</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-primary">Redact</a>
+                        <a class="btn btn-danger delete" id="@product.Id">Delete</a>
+                    </td>
+                </tr>
+                count++;
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts{
+    <script>
+        $('.delete').on('click', function() {
+            Swal.fire({
+                title: 'Are you sure?',
+                text: "You won't be able to revert this!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                confirmButtonText: 'Yes, delete it!'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    let isDeleted = Delete(this);
+                    if (isDeleted) {
+                        Swal.fire(
+                            'Deleted!',
+                            'Your file has been deleted.',
+                            'success'
+                        )
+                    }
+                }
+            })
+        })
+        function Delete(el) {
+            let id = Number($(el).attr('id'));
+            return $.ajax({
+                url: '@Url.Action("Delete", "Product")',
+                dataType: 'post',
+                data: { id: id },
+                success: function() {
+                    return true;
+                },
+                error: function() {
+                    return false;
+                }
+            })
+        }
+    </script>
+}

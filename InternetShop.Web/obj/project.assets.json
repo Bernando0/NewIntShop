@@ -10532,11 +10532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Web\\InternetShop.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Web\\InternetShop.Web.csproj",
       "projectName": "InternetShop.Web",
-      "projectPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Web\\InternetShop.Web.csproj",
+      "projectPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Web\\InternetShop.Web.csproj",
       "packagesPath": "C:\\Users\\Bernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Web\\obj\\",
+      "outputPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10557,11 +10557,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Application\\InternetShop.Application.csproj": {
-              "projectPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Application\\InternetShop.Application.csproj"
+            "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Application\\InternetShop.Application.csproj": {
+              "projectPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Application\\InternetShop.Application.csproj"
             },
-            "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Presistance\\InternetShop.Presistance.csproj": {
-              "projectPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Presistance\\InternetShop.Presistance.csproj"
+            "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Presistance\\InternetShop.Presistance.csproj": {
+              "projectPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Presistance\\InternetShop.Presistance.csproj"
             }
           }
         }

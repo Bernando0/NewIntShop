@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bO/CZELMmsLoRc3FkUNFfzM0B5DraBYliwQRV1OowS2/0jBsJgQG/kzTMDtkZLUWMba1uWFpZqh2WIWUWglBDA==",
+  "dgSpecHash": "KOenRWc8ftALSjj96pPDG2R6q1SOvs+xY6w8Z309rBKaKJgfMMTGH/adkQNWfLwV9jp/jZXUyJpaRKRcgQCd5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bernando\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Bernando\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

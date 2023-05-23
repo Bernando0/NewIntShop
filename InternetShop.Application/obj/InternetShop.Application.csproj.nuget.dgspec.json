@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Application\\InternetShop.Application.csproj": {}
+    "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Application\\InternetShop.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Application\\InternetShop.Application.csproj": {
+    "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Application\\InternetShop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Application\\InternetShop.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Application\\InternetShop.Application.csproj",
         "projectName": "InternetShop.Application",
-        "projectPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Application\\InternetShop.Application.csproj",
+        "projectPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Application\\InternetShop.Application.csproj",
         "packagesPath": "C:\\Users\\Bernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Application\\obj\\",
+        "outputPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj"
+              "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj": {
+    "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
         "projectName": "InternetShop.Domain",
-        "projectPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
+        "projectPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\InternetShop.Domain.csproj",
         "packagesPath": "C:\\Users\\Bernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bernando\\source\\repos\\IntShop\\InternetShop\\InternetShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Bernando\\Desktop\\NewIntShop\\InternetShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -32,11 +32,13 @@ namespace InternetShop.Presistance.Repository
         public void Remove(T item)
         {
             _context.Set<T>().Remove(item);
+            _context.SaveChanges();
         }
 
         public void Update(T item)
         {
             _context.Set<T>().Update(item);
+            _context.SaveChanges();
         }
     }
 }

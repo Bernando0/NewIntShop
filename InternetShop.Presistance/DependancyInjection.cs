@@ -16,6 +16,7 @@ namespace InternetShop.Presistance
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IApplicationType, ApplicationTypeRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
 
             return services;
         }
